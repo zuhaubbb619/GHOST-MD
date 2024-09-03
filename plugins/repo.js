@@ -19,8 +19,11 @@ let dec = `*👻 GHOST MD Repastitory Information*
 *| ᴠᴇʀꜱɪᴏɴ*: 1.0.0
 
 
-*📡 REPO LINK*
+*📡 V1 REPO LINK*
 🔗◦https://github.com/Cyberghost352/GHOST-MD.git
+*🖥️ V2 REPO LINK
+https://github.com/GHOST-V1-MD/GHOST-MD.git
+
 
 *📌 SUBSCRIBE MY YOUTUBE CHANNEL*
 🔗◦ https://youtube.com/@cyberghost630?si=JVTDEQ8vO9Ksgv9M
