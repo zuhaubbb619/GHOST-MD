@@ -1,4 +1,4 @@
-# GHOST-V1-MD WHATSAPP BOT #
+# GHOST-V2-MD  #
 <br>
  </p>
     <p align="center">
