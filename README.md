@@ -39,3 +39,5 @@
 ##  PAIRING CODE SCAN
 <a href="https://pair-web-public.koyeb.app/"><img src="https://pair-web-public.koyeb.app/" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
+## Deploy.
+ [![nima](https://img.shields.io/badge/asitha_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/GHOST-V1-MD/GHOST-MD)
