@@ -10,7 +10,7 @@
       "description": "Put the session-id here.",
       "required": true
     }
-    },  
+ },  
 
     "ALIVE_IMG": {
       "description": "Put your alive img here.",
