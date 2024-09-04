@@ -28,7 +28,7 @@ let desc = `*◆ GHOST-MD SONG DOWNLOADING.....◆*
 
 |➤ AGO - ${data.ago}
 
- ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢʜᴏꜱᴛ-ᴍᴅ
+ POWERD BY GHOST-MD
 `
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
 
