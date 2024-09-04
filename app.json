@@ -21,6 +21,11 @@
       "required": true
     }   
 },
+  "MONGODB": {
+      "description": "Put your mongodb url.",
+      "required": true
+    }
+},
 
      "buildpacks": [
         {
