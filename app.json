@@ -9,12 +9,14 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true
+    }
     },  
 
     "ALIVE_IMG": {
       "description": "Put your alive img here.",
       "required": true
-    },
+    }
+},
     
     "ALIVE_MSG": {
       "description": "Put your alive msg here.",
@@ -22,7 +24,7 @@
     }   
 },
   "MONGODB": {
-      "description": "Put your mongodb url.",
+      "description": "Put your mongodb url",
       "required": true
     }
 },
