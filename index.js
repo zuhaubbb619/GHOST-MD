@@ -71,7 +71,7 @@ console.log('Bot connected to whatsapp ✅')
 
 let up = `GHOST-MD connected successful ✅\n\nPREFIX: ${prefix}`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/6d986fa37cb22f8e6717a.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/397000a07a1deb7fad9c2.jpg` }, caption: up })
 
 }
 })
@@ -185,4 +185,4 @@ res.send("hey, ghost started✅");
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
 connectToWA()
-}, 4000);
+}, 4000);  
